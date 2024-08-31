@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "This is Mern stack Farm direct.",
+  "description": "This is Mern stack Farm direct..",
   "main": "server.js",
   "type": "module",
   "scripts": {
