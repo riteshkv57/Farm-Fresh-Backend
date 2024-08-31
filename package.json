@@ -1,13 +1,13 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "This is food ordering website",
+  "description": "This is Mern stack Farm direct.",
   "main": "server.js",
   "type": "module",
   "scripts": {
     "server": "nodemon server.js"
   },
-  "author": "Vikas Sharma",
+  "author": "Ritesh Verma",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
